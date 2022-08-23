@@ -1,0 +1,23 @@
+{
+  "name": "es-414145",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kravets-levko/ES-414145.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kravets-levko/ES-414145/issues"
+  },
+  "homepage": "https://github.com/kravets-levko/ES-414145#readme",
+  "dependencies": {
+    "@databricks/sql": "^0.1.8-beta.1"
+  }
+}
